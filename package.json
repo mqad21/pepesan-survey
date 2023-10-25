@@ -1,0 +1,22 @@
+{
+  "name": "pepesan-survey",
+  "version": "1.0.0",
+  "description": "An extension of Pepesan to create interactive survey in WhatsApp chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mqad21/pepesan-survey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mqad21/pepesan-survey/issues"
+  },
+  "homepage": "https://github.com/mqad21/pepesan-survey#readme",
+  "dependencies": {
+    "pepesan": "^3.4.0"
+  }
+}
